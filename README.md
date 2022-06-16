@@ -13,7 +13,7 @@
 To get a local copy up and running follow these simple steps.
 
 ```bash
-$ git clone https://github.com/omarsalem7/hello-rails-react
+$ git clone https://github.com/farouqdaif1/hello_rails_react.git
 $ cd hello-rails-react
 $ bundle install 
 $ rake db:create 
